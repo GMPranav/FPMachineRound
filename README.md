@@ -1,8 +1,8 @@
-##Coding Assessment (Machine Round)
+## Coding Assessment (Machine Round)
 
-##By - Pranav G (2018AAPS0334H, BITS-Pilani)
+## By - Pranav G (2018AAPS0334H, BITS-Pilani)
 
-##Pre-Requisites:
+## Pre-Requisites:
 
 * mysql
 
@@ -16,7 +16,7 @@
 
 	pip install flask-mysql 
 
-##Running the application: 
+## Running the application: 
 
 * Go to the download directory and run 'python3 main.py' in cmd
 
@@ -24,6 +24,6 @@
 
 * Open http://localhost:5000/
 
-##Video Demonstration:
+## Video Demonstration:
 
 Video Link : 
