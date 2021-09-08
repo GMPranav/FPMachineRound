@@ -8,9 +8,9 @@ By - Pranav G (2018AAPS0334H, BITS-Pilani)
 
 * The following databases and tables are expected to be created before running the server:
 
-	CREATE DATABASE users;
-	CREATE TABLE users.users(name varchar(255),username varchar(255),passw varchar(255));
-	CREATE TABLE users.json_file(User_Id int, Id int, Title varchar(511), Body varchar(1023));
+	* CREATE DATABASE users;
+	* CREATE TABLE users.users(name varchar(255),username varchar(255),passw varchar(255));
+	* CREATE TABLE users.json_file(User_Id int, Id int, Title varchar(511), Body varchar(1023));
 
 * Flask module with mysql for python:
 
