@@ -1,6 +1,6 @@
 ## Coding Assessment (Machine Round)
 
-## By - Pranav G (2018AAPS0334H, BITS-Pilani)
+By - Pranav G (2018AAPS0334H, BITS-Pilani)
 
 ## Pre-Requisites:
 
