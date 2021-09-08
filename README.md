@@ -4,7 +4,7 @@ By - Pranav G (2018AAPS0334H, BITS-Pilani)
 
 ## Pre-Requisites:
 
-* mysql
+* Python3, MySQL installed.
 
 * The following databases and tables are expected to be created before running the server:
 
@@ -15,6 +15,8 @@ By - Pranav G (2018AAPS0334H, BITS-Pilani)
 * Flask module with mysql for python:
 
 	pip install flask-mysql 
+
+* The JSON file must be in the same directory as the 'main.py' file.
 
 ## Running the application: 
 
@@ -27,3 +29,5 @@ By - Pranav G (2018AAPS0334H, BITS-Pilani)
 ## Video Demonstration:
 
 Video Link : 
+
+
